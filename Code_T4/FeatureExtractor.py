@@ -1,3 +1,4 @@
+# FeatureExtractor.py
 import numpy as np
 
 from tiles3 import IHT, tiles
